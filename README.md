@@ -40,3 +40,8 @@ id,name,density,conductivity,melting
 3,alminium,2.7,32.9,660
 
 ```
+
+
+# License
+
+This software is released under the MIT License, see [LICENSE](LICENSE).
